@@ -1,0 +1,15 @@
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.so
+*.dll
+*.lib
+/output/
+output/
+.vscode/
+.idea/
+*.swp
+*.log
+*.tmp
