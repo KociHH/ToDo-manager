@@ -13,3 +13,4 @@ output/
 *.swp
 *.log
 *.tmp
+.env

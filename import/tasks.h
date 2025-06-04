@@ -13,7 +13,8 @@ extern Task tasks[max_tasks];
 extern int task_count;
 
 void show_tasks(void);
-void add_task(const char *last_task);
+void add_task(void);
 void complete_task(void);
+void delete_task(void);
 
 #endif
